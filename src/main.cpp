@@ -1,3 +1,7 @@
+// ALUNO: VIMÍCIUS AZI NAVARRO DE LIMA
+// Professor, acabei por não encontrar uma dupla para a realização deste exercício. Vou buscar uma dupla que esteja disponivel para a realização do trabalho.
+
+
 #include <iostream>
 #include <string>
 #include <vector>
